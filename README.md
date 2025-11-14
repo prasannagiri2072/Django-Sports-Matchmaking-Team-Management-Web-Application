@@ -100,8 +100,6 @@ Powered by **Django Channels**:
 
 ## 🗂 Project Structure (Simplified)
 
-*(Based on provided files — may vary depending on full project)*
-
 ```
 project_root/
 │   manage.py
@@ -209,15 +207,6 @@ ws://<host>/ws/category/<team_id>/
 * Tournament mode
 * Admin analytics dashboard
 * Video highlights sharing
-
----
-
-## 👨‍💻 Author
-
-Developed during internship & employment period:
-
-* **Internship:** July 07 – October 09
-* **Job Position:** Data Analytics Intern → Data Analyst (Oct 11 – Present)
 
 ---
 
